@@ -1,0 +1,67 @@
+[
+    {
+        "name": "Golden State Warriors",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/01/Golden_State_Warriors_logo.svg/1200px-Golden_State_Warriors_logo.svg.png",
+        "class":"warriors",
+        "headCoach":"Steve Kerr",
+        "arena":"Chase Center",
+        "info":"The Golden State Warriors are an American professional basketball team based in San Francisco. The Warriors compete in the National Basketball Association, as a member of the league's Western Conference Pacific Division.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "Boston Celtics",
+        "logo":"https://upload.wikimedia.org/wikipedia/lt/thumb/8/8f/Boston_Celtics.svg/1200px-Boston_Celtics.svg.png",
+        "class":"celtics",
+        "headCoach":"Ime Udoka",
+        "arena":"TD Garden",
+        "info":"The Boston Celtics are an American professional basketball team based in Boston. The Celtics compete in the National Basketball Association as a member of the league's Eastern Conference Atlantic Division. ",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+
+    },
+    {
+        "name": "Toronto Raptors",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/3/36/Toronto_Raptors_logo.svg/1200px-Toronto_Raptors_logo.svg.png",
+        "class":"raptors",
+        "headCoach":"Nick Nurse",
+        "arena":"Scotiabank Arena",
+        "info":"The Toronto Raptors are a Canadian professional basketball team based in Toronto. The Raptors compete in the National Basketball Association as a member of the league's Eastern Conference Atlantic Division. ",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+
+    },
+    {
+        "name": "Miami Heat",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/f/fb/Miami_Heat_logo.svg/1200px-Miami_Heat_logo.svg.png",
+        "class":"heat",
+        "headCoach":" Erik Spoelstra",
+        "arena":"FTX Arena",
+        "info":"The Miami Heat are an American professional basketball team based in Miami. The Heat compete in the National Basketball Association as a member of the league's Eastern Conference Southeast Division. The club plays its home games at FTX Arena, and has won three NBA championships.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+
+    },
+    {
+        "name": "Chicago Bulls",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/6/67/Chicago_Bulls_logo.svg/1200px-Chicago_Bulls_logo.svg.png",
+        "class":"bulls",
+        "headCoach":" Billy Donovan",
+        "arena":"United Center",
+        "info":"The Chicago Bulls are an American professional basketball team based in Chicago. The Bulls compete in the National Basketball Association as a member of the league's Eastern Conference Central Division. The team was founded on January 16, 1966, and played its first game during the 1966–67 NBA season.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+
+    },
+    {
+        "name": "Dallas Mavericks",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/9/97/Dallas_Mavericks_logo.svg/1200px-Dallas_Mavericks_logo.svg.png",
+        "class":"mavericks",
+        "headCoach":" Jason Kidd",
+        "arena":"American Airlines Center",
+        "info":"The Dallas Mavericks are an American professional basketball team based in Dallas. The Mavericks compete in the National Basketball Association as a member of the Western Conference Southwest Division.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+
+    }
+]
