@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Saski Baskonia",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/6/6a/Saski_Baskonia.png",
+        "class":"baskonia",
+        "headCoach":"Neven Spahija",
+        "arena":"Fernando Buesa Arena",
+        "info":"Club Deportivo Saski-Baskonia, S.A.D., commonly known as Saski Baskonia, also known as Cazoo Baskonia for sponsorship reasons, is a professional basketball team that is based in Vitoria-Gasteiz, Spain. The team plays in the Liga ACB and the EuroLeague.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+
+    },
+    {
+        "name": "Valencia Basket",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/e/e8/Valencia_Basket_logo.svg/1200px-Valencia_Basket_logo.svg.png",
+        "class":"valencia",
+        "headCoach":"Álex Mumbrú",
+        "arena":"Fuente de San Luis",
+        "info":"Valencia Basket Club S.A.D., commonly known as Valencia Basket, is a professional basketball team based in Valencia, Spain. The team plays in the Liga ACB and the EuroLeague, with home games played at the Fuente de San Luis. The club is sponsored by the Spanish billionaire Juan Roig.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "BC Andora",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/6/62/BC_Andorra_logo.svg/1200px-BC_Andorra_logo.svg.png",
+        "class":"andora",
+        "headCoach":"Óscar Quintana",
+        "arena":"Poliesportiu d'Andorra",
+        "info":"Bàsquet Club Andorra S.A., also known as MoraBanc Andorra for sponsorship reasons, is a professional basketball team that is based in Andorra la Vella, Andorra. Though based in Andorra, the club plays in the Spanish basketball league system.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "Basket Zaragoza",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/2/28/Basket_Zaragoza_new_logo.png",
+        "class":"zaragoza",
+        "headCoach":"Martin Schiller",
+        "arena":"Pabellón Príncipe Felipe",
+        "info":"Basket Zaragoza 2002 S.A.D., more commonly referred to as Basket Zaragoza and as Casademont Zaragoza for sponsorship reasons, is a professional basketball club based in Zaragoza, Spain. The team plays in the Liga ACB. Their home arena is the Pabellón Príncipe Felipe.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "FC Barcelona",
+        "logo":"https://upload.wikimedia.org/wikipedia/lt/7/74/Fc_barcelona.gif",
+        "class":"barcelona",
+        "headCoach":"Šarūnas Jasikevičius",
+        "arena":"Palau Blaugrana",
+        "info":"FC Barcelona Bàsquet, commonly referred to as FC Barcelona and colloquially known as Barça, is a professional basketball club based in Barcelona, Catalonia, Spain. It is a part of the FC Barcelona multi sports club, and was founded on 24 August 1926, which makes it the oldest club in the Liga ACB.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "Madrido Real",
+        "logo":"https://upload.wikimedia.org/wikipedia/lt/thumb/b/b1/MadridoReal.svg/1200px-MadridoReal.svg.png",
+        "class":"real",
+        "headCoach":"Pablo Laso",
+        "arena":"WiZink Center",
+        "info":"Real Madrid Baloncesto is a Spanish professional basketball team that was founded in 1931, as a division of the Real Madrid CF multi sports club. They play domestically in the Liga ACB, and internationally in the EuroLeague.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    }
+]
