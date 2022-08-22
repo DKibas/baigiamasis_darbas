@@ -1,0 +1,135 @@
+html, body{
+    height: 100vh;
+    background-color: #1d3f6e;
+    background-size: cover;
+    position: relative;
+}
+
+h1{
+    display: flex;
+    justify-content: center;
+    color: whitesmoke;
+    text-shadow: 5px 5px rgb(138, 43, 9);
+    font-size: 70px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.row {
+    display: grid;
+    position: relative;
+    grid-template-columns: auto auto auto;
+    justify-content: space-around;
+    margin-bottom: auto;
+}
+
+div .col{
+    background-color: #dfe3e8;
+    border-radius: 20px;
+    box-shadow: 10px 10px black;
+    margin: 20px;
+}
+
+div .col:hover{
+    opacity: 0.5;
+}
+
+.col img{
+    display: flex;
+    height: 200px;
+    width: 200px;
+    margin-top: 50px ;
+    margin-bottom: 30px;
+}
+
+.col h3{
+    font-size: 20px;
+    text-shadow: 1px 1px;
+    width: 160px;
+   margin: auto;
+   margin-bottom: 20px;
+    text-align: center;
+    justify-content: center;
+}
+
+.content{
+    display: grid;
+    justify-content: center;
+    color: whitesmoke;
+}
+
+.content img{
+    height: 150px;
+    justify-content: center;
+    margin: auto;
+}
+
+.content p{
+   font-size: 40px;
+}
+
+.modal{
+    position: fixed;
+    display: none;
+    justify-content: center;
+    align-items: center;
+    background: rgba(0, 0, 0, 0.9);
+    height: 100vh;
+    width: 100%;
+}
+
+#info , #play {
+    height: 50px;
+    width: 200px;
+    margin: 40px auto;
+    text-align: center;
+    text-decoration: unset;
+    border: 3px solid white;
+}
+
+#info:hover , #play:hover{
+    opacity: 0.5;
+}
+
+#info a, #play a{
+    font-size: 40px;
+    text-decoration: none;
+    color: whitesmoke;
+    justify-content: center;
+    margin: auto;
+}
+
+#close {
+    color: #aaaaaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+    height:50px;
+    width: 50px;
+    background-color: red;
+  }
+
+.home img{
+    height: 60px;
+    width: 80px;
+}
+
+@media screen and (max-width: 700px){
+    .row{
+        display: grid;
+        position: relative;
+        grid-template-columns: auto auto;
+
+       
+    }
+}
+
+@media screen and (max-width: 520px){
+    .row{
+        display: grid;
+        position: relative;
+        grid-template-columns: auto;
+    }
+}
+
+
