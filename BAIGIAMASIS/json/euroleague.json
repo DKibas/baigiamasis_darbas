@@ -1,0 +1,63 @@
+[
+    {
+        "name": "Real Madrid",
+        "logo":"https://upload.wikimedia.org/wikipedia/lt/thumb/b/b1/MadridoReal.svg/1200px-MadridoReal.svg.png",
+        "class":"madrid",
+        "headCoach":"Pablo Laso",
+        "arena":"WiZink Center",
+        "info":"Real Madrid Baloncesto is a Spanish professional basketball team that was founded in 1931, as a division of the Real Madrid CF multi sports club. They play domestically in the Liga ACB, and internationally in the EuroLeague.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+
+    },
+    {
+        "name": "FC Barcelona",
+        "logo":"https://upload.wikimedia.org/wikipedia/lt/7/74/Fc_barcelona.gif",
+        "class":"barca",
+        "headCoach":" Šarūnas Jasikevičius",
+        "arena":"Palau Blaugrana",
+        "info":"FC Barcelona Bàsquet, commonly referred to as FC Barcelona and colloquially known as Barça, is a professional basketball club based in Barcelona, Catalonia, Spain. It is a part of the FC Barcelona multi sports club, and was founded on 24 August 1926, which makes it the oldest club in the Liga ACB.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "Olimpia Milano",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/3/3d/Pallacanestro_Olimpia_Milano_logo.svg/1200px-Pallacanestro_Olimpia_Milano_logo.svg.png",
+        "class":"milano",
+        "headCoach":"Ettore Messina",
+        "arena":"Mediolanum Forum",
+        "info":"Pallacanestro Olimpia Milano, commonly known as Olimpia Milano or as EA7 Emporio Armani Milan after its title sponsor, is an LBA Italian professional basketball team, based in Milan, Italy.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "BC Olympiacos",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Olympiacos_BC_logo.svg/1200px-Olympiacos_BC_logo.svg.png",
+        "class":"olympiacos",
+        "headCoach":"Georgios Bartzokas",
+        "arena":"Peace and Friendship Stadium",
+        "info":"Olympiacos B.C., commonly referred to as Olympiacos and Olympiacos Piraeus, is a Greek professional basketball club based in Piraeus, part of the major multi-sport club, Olympiacos CFP.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "Anadolu Efes",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Anadolu_Efes_SK_logo.svg/1200px-Anadolu_Efes_SK_logo.svg.png",
+        "class":"efes",
+        "headCoach":"Ergin Ataman",
+        "arena":"Sinan Erdem Dome",
+        "info":"Anadolu Efes Spor Kulübü, formerly known as Efes Pilsen, is a Turkish professional basketball team based in Istanbul, Turkey. Efes is the most recent Euroleague champion and on the first place of European Club Ranking after the Final Four 2020-21.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "BC Žalgiris",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_Žalgiris_logo.svg/800px-BC_Žalgiris_logo.svg.png",
+        "class":"kaunas",
+        "headCoach":"Kazys Maksvytis",
+        "arena":"Žalgirio arena",
+        "info":"Basketball Club Žalgiris is a professional basketball team that is based in Kaunas, Lithuania, and competes domestically in the Lietuvos krepšinio lyga. Founded in 1944, it is one of the oldest teams in the EuroLeague.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    }
+]
