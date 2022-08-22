@@ -1,0 +1,62 @@
+[
+    {
+        "name": "BC Žalgiris",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/BC_Žalgiris_logo.svg/800px-BC_Žalgiris_logo.svg.png",
+        "class":"zalgiris",
+        "headCoach":" Kazys Maksvytis",
+        "arena":"Žalgirio arena",
+        "info":"Basketball Club Žalgiris is a professional basketball team that is based in Kaunas, Lithuania, and competes domestically in the Lietuvos krepšinio lyga. Founded in 1944, it is one of the oldest teams in the EuroLeague.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+
+    },
+    {
+        "name": "Klaipėdos Neptūnas",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/4/4a/Neptunas2020.png",
+        "class":"neptunas",
+        "headCoach":"Mindaugas Brazys",
+        "arena":"Švyturio arena",
+        "info":"Basketball Club Neptūnas, commonly known as Neptūnas or Neptūnas Klaipėda, is a Lithuanian professional basketball team based in Klaipėda, Lithuania. The club participates in the Lithuanian Basketball League and internationally in the Champions League.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "BC Rytas",
+        "logo":"https://upload.wikimedia.org/wikipedia/en/thumb/8/8a/BC_Rytas_logo.svg/1200px-BC_Rytas_logo.svg.png","class":"rytas",
+        "headCoach":" Giedrius Žibėnas",
+        "arena":" JEEP arena",
+        "info":"Rytas Vilnius is a Lithuanian professional basketball club based in Vilnius, Lithuania. The club was founded in 1997 from another club, Statyba, and has become one of the most successful Lithuanian basketball clubs.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "Utenos Juventus",
+        "logo":"https://upload.wikimedia.org/wikipedia/lt/d/d5/Juventus2021.png",
+        "class":"juventus",
+        "headCoach":"Donaldas Kairys",
+        "arena":"Utena's Arena",
+        "info":"BC Juventus, also known as Uniclub Casino Juventus for sponsorship reasons, is a Lithuanian professional basketball club based in Utena, Lithuania. Founded in 1999, the club currently plays in the Lithuanian Basketball League.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "Panevėžio Lietkabelis",
+        "logo":"https://upload.wikimedia.org/wikipedia/lt/a/a1/Lietkabelis_2017.png",
+        "class":"lietkabelis",
+        "headCoach":" Nenad Čanak",
+        "arena":"Cido Arena",
+        "info":"BC Lietkabelis, also currently known as BC 7bet-Lietkabelis or 7bet-Lietkabelis for sponsorship reasons, is a Lithuanian professional basketball team based in Panevėžys, Lithuania, participating in the Lithuanian Basketball League and internationally in the EuroCup. It was BC TECHasas till 2012.",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    },
+    {
+        "name": "Šiaulių Šiauliai",
+        "logo":"https://upload.wikimedia.org/wikipedia/lt/8/84/Bcsiauliai2021.png",
+        "class":"siauliai",
+        "headCoach":"Antanas Sireika",
+        "arena":"Šiauliai Arena",
+        "info":"BC Šiauliai is the professional basketball club of Šiauliai, Lithuania. The club competes in the Lithuanian Basketball League. It has won the 3rd place award in the LKL a record 9 times",
+        "playbookImg":"assets/playbooks/IMG_0074.GIF",
+        "playbookVid":"assets/playbooks/IMG_0072.GIF"
+    }
+]
