@@ -1,0 +1,108 @@
+body {
+  background: url(../assets/images/gettyimages-172774919-612x612.jpeg);
+  height: 100vh;
+  background-size: cover;
+  position: relative;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.row {
+  display: block;
+  margin: 50px auto;
+}
+
+h1 {
+  display: flex;
+  position: relative;
+  justify-content: center;
+  font-family: "Varela round", sans-serif;
+  font-size: 80px;
+  color: whitesmoke;
+  text-shadow: 5px 5px rgb(138, 43, 9);
+}
+
+h2 {
+  display: flex;
+  position: relative;
+  color: whitesmoke;
+  font-size: 50px;
+  text-shadow: 2px 2px black;
+  margin-top: 200px;
+  text-align: center;
+}
+
+nav {
+  display: flex;
+  position: relative;
+  justify-content: flex-start;
+}
+
+div a {
+  display: inline-block;
+  margin: 20px;
+}
+
+a {
+  display: flex;
+  flex-direction: row;
+  color: darkred;
+  text-decoration: none;
+  font-size: 30px;
+  text-shadow: 2px 2px white;
+}
+
+a:hover {
+  color: black;
+  text-shadow: 2px 2px;
+  font-size: 32px;
+}
+
+.icon {
+  display: none;
+}
+
+@media screen and (max-width: 650px) {
+  .topnav a {
+    display: none;
+  }
+  .topnav a.icon {
+    float: left;
+    display: block;
+  }
+
+  .name {
+    text-align: center;
+  }
+
+  .text {
+    position: relative;
+    text-align: center;
+  }
+
+  body {
+    background-size: cover;
+  }
+}
+
+@media screen and (max-width: 650px) {
+   .topnav.responsive {
+    position: relative;
+  } 
+
+  .responsive .icon {
+    position: absolute;
+    left: 0;
+    top: 0;
+  }
+
+  .topnav.responsive a {
+    float: none;
+    display: block;
+    text-align: left;
+    position: relative;
+  }
+}
